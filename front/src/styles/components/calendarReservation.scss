@@ -1,0 +1,27 @@
+.room {
+    &__reservation-calendar{
+        display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 3rem;
+    }
+}
+
+.react-calendar__tile {
+    padding: 16px 6.6667px;
+}
+
+.react-calendar{
+    width: 26rem;
+    border: none;
+}
+
+.selected-range {
+    background-color: $tertiary;
+    color: $secondary;
+}
+
+.selected-case{
+    background-color: #006edc;
+    color: #fff;
+}
