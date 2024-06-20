@@ -85,3 +85,7 @@ Pour notre site, nous avons proposés plusieurs améliorations à notre client :
 - [@adriengmbt](https://github.com/adriengmbt)
 - [@crepincorentin](https://github.com/crepincorentin)
 - [@Mayel16](https://github.com/Mayel16)
+
+## Lien du repository officiel : 
+
+https://github.com/BuathierTom/ReserveTonLogis
